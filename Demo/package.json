@@ -1,0 +1,19 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "demo1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etag": "^1.8.1",
+    "express": "^4.17.1",
+    "jsonschema": "^1.2.5",
+    "koa": "^2.11.0",
+    "koa-redis": "^4.0.1",
+    "redis": "^2.8.0"
+  }
+}
